@@ -1,2 +1,3 @@
 # ProjetoJava01
-conteudo pratico
+Dados primitivos, não primitivos, entrada e saída;
+
